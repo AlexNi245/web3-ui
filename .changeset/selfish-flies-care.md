@@ -4,3 +4,4 @@
 ---
 
 Added token-balance component to display the users amount of a certain ERC20 token
+
